@@ -49,7 +49,7 @@ To use the Deezer API in PSMusic:
 
 ## Screenshots 📸
 
-### Home Screen
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="Screenshots/Home.png" alt="Home Screen" width="300"/>
   <img src="Screenshots/Splash.png" alt="Splash Screen" width="300"/>
