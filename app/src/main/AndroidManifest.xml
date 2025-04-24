@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@drawable/main"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/main"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.PSMusic"
+        tools:targetApi="31">
+
+        <!-- MainActivity2 -->
+        <activity
+            android:name="com.example.psmusic.MainActivity2"
+            android:exported="true" />
+
+        <!-- Splash Activity -->
+        <activity
+            android:name="com.example.psmusic.Splash"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- MainActivity -->
+        <activity
+            android:name="com.example.psmusic.MainActivity"
+            android:exported="true" />
+    </application>
+
+</manifest>
