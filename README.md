@@ -77,3 +77,9 @@ Follow these steps to install and run **PSMusic**:
    ```sh
    git clone https://github.com/your-username/PSMusic.git
    cd PSMusic
+
+## Download the APK 📥
+
+You can download the latest version of the PSMusic app here:
+[Download PSMusic APK](https://drive.google.com/file/d/1F1kZY5Qq2EYTz1VaiMtZa98U9ZtwJXEo/view?usp=sharing) 
+(Current Version: v1.0.0)
