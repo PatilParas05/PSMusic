@@ -64,8 +64,6 @@ PSMusic is powered by:
 - **Frontend:** Jetpack Compose, Kotlin
 - **Backend:** Deezer API (via RapidAPI)
 - **Networking:** Retrofit, OkHttp
-- **State Management:** LiveData & ViewModel
-- **Storage:** Room Database for offline data
 
 ---
 
