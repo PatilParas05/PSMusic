@@ -61,7 +61,7 @@ To use the Deezer API in PSMusic:
 ## Tech Stack 🛠️
 
 PSMusic is powered by:
-- **Frontend:** Jetpack Compose, Kotlin
+- **Frontend:**  Kotlin
 - **Backend:** Deezer API (via RapidAPI)
 - **Networking:** Retrofit, OkHttp
 
